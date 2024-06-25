@@ -3,9 +3,8 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="in"
-                 name="Instance Name"
-                 start-page="starter.md">
+                 name="OCA Progress Docs"
+                 start-page="Progress-Docs.md">
 
-    <toc-element topic="starter.md"/>
     <toc-element topic="Progress-Docs.md"/>
 </instance-profile>
