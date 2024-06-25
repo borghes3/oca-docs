@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="9b3354f">
+        <description>Created after removal of "Overview" from OCA Progress Docs</description>
+        <accepts>Overview.html</accepts>
+    </rule>
+    <rule id="549dbcf8">
+        <description><![CDATA[Created after removal of "<Coding-Sessions.md>" from OCA Progress Docs]]></description>
+        <accepts>Coding-Sessions.html</accepts>
+    </rule>
+    <rule id="7cf494aa">
+        <description>Created after removal of "Coding Session" from OCA Progress Docs</description>
+        <accepts>Coding-Session-1.html</accepts>
+    </rule>
+    <rule id="4ff86d89">
+        <description>Created after removal of "Coding Session" from OCA Progress Docs</description>
+        <accepts>Coding-Session-1.html</accepts>
+    </rule>
+    <rule id="79368869">
+        <description>Created after removal of "Coding Session 1" from OCA Progress Docs</description>
+        <accepts>Coding-Session-1.html</accepts>
+    </rule>
+    <rule id="22aacf7b">
+        <description>Created after removal of "Coding Session 0" from OCA Progress Docs</description>
+        <accepts>Session-0.html</accepts>
+    </rule>
+</rules>
